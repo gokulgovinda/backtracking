@@ -61,7 +61,6 @@ public class MainClass {
 		return false;
 	}
 	
-	
 	public static void main(String[] args) {
 		int a[][] = {
 				{1, 1, 0, 1},
